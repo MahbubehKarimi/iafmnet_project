@@ -6,7 +6,7 @@
 
 | مرحله | دستور | توضیح |
 |---|---|---|
-| 1. ترین | `python train.py` | مدل رو روی داده آموزش بده |
+| 1. آموزش | `python train.py` | مدل رو روی داده آموزش بده |
 | 2. خروجی ONNX | `python export_trained.py` | وزن‌ها رو آماده اجرا کن |
 | 3. اینترفیس وب | `python app.py` | عکس بده، خروجی SR بگیر |
 
@@ -18,7 +18,7 @@ pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install gradio onnxruntime
 ```
 
-## مرحله ۱: ترین
+## مرحله ۱: آموزش
 
 عکس‌های کم‌کیفیتت رو بذار توی پوشه `data/lr_images/` (فرمت png یا jpg)
 
