@@ -6,13 +6,13 @@
 IAFMNet.ipynb
 
 ## خلاصه سریع
-
+<div dir="rtl">
 | مرحله | دستور | توضیح |
 |---|---|---|
 | 1. آموزش | `python train.py` | مدل رو روی داده آموزش بده |
 | 2. خروجی ONNX | `python export_trained.py` | وزن‌ها رو آماده اجرا کن |
 | 3. اینترفیس وب | `python app.py` | عکس بده، خروجی SR بگیر |
-
+</div>
 ## نصب
 
 ```bash
