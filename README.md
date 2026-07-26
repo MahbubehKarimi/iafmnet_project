@@ -2,6 +2,9 @@
 
 پیاده‌سازی ساده‌شده مقاله **IAFMNet: Information-Aware Feature Modulation for Efficient Super-Resolution** (CVPR 2026)
 
+## پیاده سازی مختصر
+IAFMNet.ipynb
+
 ## خلاصه سریع
 
 | مرحله | دستور | توضیح |
